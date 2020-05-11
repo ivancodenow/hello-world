@@ -1,2 +1,2 @@
 # hello-world
-belajar github
+belajar github sekarang
